@@ -5,6 +5,9 @@ __pycache__/
 Study/
 .idea/
 
+# allure
+allure-report/
+
 # C extensions
 *.so
 
